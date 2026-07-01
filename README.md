@@ -144,9 +144,9 @@ Enterprise Asset Management System
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GunalanDeveloper&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GunalanDeveloper&theme=tokyonight"/>
 
 </p>
 
@@ -154,7 +154,7 @@ Enterprise Asset Management System
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunalanDeveloper&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -193,7 +193,7 @@ Enterprise Asset Management System
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GunalanDeveloper&theme=tokyo-night"/>
 
 </p>
 
@@ -203,7 +203,7 @@ Enterprise Asset Management System
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/GunalanDeveloper/GunalanDeveloper/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -213,7 +213,7 @@ Enterprise Asset Management System
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=GunalanDeveloper&style=for-the-badge&color=blue"/>
 
 </p>
 
