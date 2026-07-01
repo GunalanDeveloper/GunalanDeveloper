@@ -97,16 +97,6 @@ Become a Staff Frontend Engineer and contribute to Open Source.
 
 ---
 
-### DevOps
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-
----
-
 ### AI Tools
 
 - ChatGPT
