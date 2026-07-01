@@ -144,7 +144,7 @@ Enterprise Asset Management System
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GunalanDeveloper&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GunalanDeveloper&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GunalanDeveloper&theme=tokyonight"/>
 
