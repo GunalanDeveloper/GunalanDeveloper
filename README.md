@@ -54,7 +54,7 @@ Become a Staff Frontend Engineer and contribute to Open Source.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/gunalan7/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
