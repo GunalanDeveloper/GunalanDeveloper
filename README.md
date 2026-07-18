@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Gunalan%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Frontend%20Developer%20|%20Angular%20Expert%20|%20TypeScript%20Specialist&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=12,20,24&text=Gunalan%20M&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlignY=35&desc=🚀%20Senior%20Frontend%20Developer%20•%20Angular%20Expert%20•%20TypeScript%20•%20RxJS%20•%20Performance%20Optimization&descSize=18&descAlignY=60"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Gunalan</h1>
 
 <h3 align="center">
