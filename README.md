@@ -150,6 +150,14 @@ Enterprise Asset Management System
 
 </p>
 
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GunalanDeveloper&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&border_color=00E5FF&ring_color=00E5FF"
+    alt="GitHub Stats"
+  />
+</p>
+
 ---
 
 <p align="center">
