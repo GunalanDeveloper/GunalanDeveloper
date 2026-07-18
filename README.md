@@ -151,14 +151,6 @@ Enterprise Asset Management System
 
 ---
 
-<p align="center">
-
-
-
-</p>
-
----
-
 # 🛠 Tools I Use
 
 - VS Code
